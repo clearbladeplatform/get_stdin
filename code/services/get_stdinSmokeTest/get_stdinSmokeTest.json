@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,get_stdin",
+    "logging_enabled": "false",
+    "name": "get_stdinSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "get_stdinSmokeTest.js"
+}
